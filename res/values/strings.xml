@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TipCalculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="amount">Bill:</string>
+    <string name="amount_hint">Enter the Bill Amount</string>
+    <string name="tip10">10%</string>
+    <string name="tip15">15%</string>
+    <string name="tip20">20%</string>
+    <string name="tip_amount">Tip:</string>
+    <string name="total">Total:</string>
+    <string name="tip_scale_hint">Choose the tip percentage you want to pay</string>
+    <string name="percent_sign">%</string>
+
+</resources>
